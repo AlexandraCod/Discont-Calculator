@@ -8,6 +8,9 @@ How to use
 5. The tool not only calculates discounts. Enter a number in 'Discounted Price', and then input a mathematical expression in 'Original Price' field,  the result will appear above 'Price Discount %:'
 
 Note:
-Please enter valid numbers.
-The input value should be greater than zero.
+Please enter valid numbers
+The input value should be greater than zero
 
+
+If you like it, pls Buy me a coffee!
+https://www.buymeacoffee.com/alexandracode
